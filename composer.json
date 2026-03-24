@@ -1,0 +1,22 @@
+{
+    "name": "yuki091305/pop-it-mvc",
+    "description": "servac practica iu",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yuki091305",
+            "email": "yukifieri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "core/Src/",
+            "": "app/"
+        }
+    }
+}
