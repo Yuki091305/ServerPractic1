@@ -11,9 +11,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^7.4 | ^8.0",
-        "illuminate/database": "*",
-        "illuminate/events": "*"
+        "illuminate/database": "8.83.27",
+        "illuminate/events": "8.83.27"
+    },
+    "config": {
+        "platform-check": false
     },
     "autoload": {
         "psr-4": {
