@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09fa6a31-5d86-4411-878b-729c19f8144e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Model/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/Src/Request.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/site/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/Src/Auth/Auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/Src/Auth/IdentityInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/Src/Session.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Controller/Site.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controller/Site.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Src/Application.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Src/Application.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/Src/Route.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Src/Route.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/site/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/site/signup.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +125,7 @@
       <workItem from="1773991315951" duration="3615000" />
       <workItem from="1774319929641" duration="776000" />
       <workItem from="1774320729721" duration="1420000" />
-      <workItem from="1774519926650" duration="5884000" />
+      <workItem from="1774519926650" duration="7528000" />
     </task>
     <servers />
   </component>
