@@ -12,7 +12,8 @@
     "minimum-stability": "dev",
     "require": {
         "illuminate/database": "8.83.27",
-        "illuminate/events": "8.83.27"
+        "illuminate/events": "8.83.27",
+        "nikic/fast-route": "v1.x-dev"
     },
     "config": {
         "platform-check": false
