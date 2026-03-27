@@ -9,4 +9,3 @@ return [
         'auth' => \Middlewares\AuthMiddleware::class,
     ]
 ];
-

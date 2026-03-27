@@ -46,6 +46,7 @@ class Route
     {
         $this->routeCollector = new RouteCollector(new Std(), new MarkBased());
     }
+
     public function setPrefix(string $value = ''): self
     {
         $this->prefix = $value;
