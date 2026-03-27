@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09fa6a31-5d86-4411-878b-729c19f8144e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/core/Src/Validator/AbstractValidator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/Src/Validator/RequireValidator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/Src/Validator/UniqueValidator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/Src/Validator/Validator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pop-it-mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pop-it-mvc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Controller/Site.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controller/Site.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Middlewares/AuthMiddleware.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Middlewares/AuthMiddleware.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Model/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/Post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Model/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Src/Auth/Auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Src/Auth/Auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Src/Auth/IdentityInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Src/Auth/IdentityInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Src/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Src/Request.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Src/Route.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Src/Route.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Src/Session.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Src/Session.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Src/Settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Src/Settings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +121,8 @@
       <workItem from="1773991315951" duration="3615000" />
       <workItem from="1774319929641" duration="776000" />
       <workItem from="1774320729721" duration="1420000" />
-      <workItem from="1774519926650" duration="12286000" />
+      <workItem from="1774519926650" duration="17329000" />
+      <workItem from="1774639968605" duration="1836000" />
     </task>
     <servers />
   </component>
